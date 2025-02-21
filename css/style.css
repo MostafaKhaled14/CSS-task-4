@@ -1,0 +1,244 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background : linear-gradient( to right,#ADD8E6, #ebb1bb,#98d698  );
+    text-transform: capitalize;
+    text-shadow: 2px 3px 5px  rgb(250, 227, 184) ;
+    
+}
+
+.wel {
+padding-bottom: 30px;
+
+}
+
+.kawel {
+    float: left;
+    width: 2px;
+    height: 81px;
+    background-color: white;
+    margin: 0px 0px 0px 450px;
+}
+
+.kbwel {
+    float: right;
+    width: 2px;
+    height: 81px;
+    background-color: white;
+    margin: 0px  450px 0px 0px;
+}
+
+.ktwell {
+    width: 100px;
+    height: 2px;
+    background-color: white;
+    margin: 8px 0px 0px 450px;
+
+}
+
+.ktwelr {
+    float: right;
+    width: 100px;
+    height: 2px;
+    background-color: white;
+    margin: 0px 450px 0px 0px;
+
+}
+
+.md {
+    overflow: auto;
+    width: fit-content;
+    height: 500px;
+    margin: 150px auto;
+    text-align: center;
+
+}
+
+.d1 {
+    width: 365px;
+    height: 200px;
+    float: left;
+    margin: 10px 0 0px 40px ;
+    border-radius: 20px;
+    transition: 1s;
+}
+
+.d1:hover{
+    background-color:#98d698;
+}
+
+.md1{
+    width: 450px;
+    height: 250px;
+    float: left;
+    margin: 130px 0 0px 0 ;
+}
+
+.d2 {
+    width: 365px;
+    height: 200px;
+    float: left;
+    margin: 10px 0  0 50px;
+    border-radius: 20px;
+    transition: 1s;
+}
+
+.d2:hover{
+
+    background : linear-gradient( to right,#98d698 ,#ADD8E6  );
+
+}
+
+.md2{
+    width: 450px;
+    height: 250px;
+    float: left;
+    margin: 130px 0 0px 0 ;
+    border-radius: 20px;
+}
+
+.d3 {
+    width: 365px;
+    height: 200px;
+    float: left;
+    margin: 10px 0 0px 40px ;
+    border-radius: 20px;
+    transition: 1s;
+}
+
+.d3:hover{
+    background-color:#ADD8E6 ;
+}
+
+.md3 {
+    width: 450px;
+    height: 250px;
+    float: left;
+    margin: 130px 0 0px 0 ;
+}
+
+.kad1{
+    background-color: white;
+    float: left;
+    height: 250px;
+    width: 2px;
+}
+
+.kbd1{
+    background-color: white;
+    float: right;
+    height: 250px;
+    width: 2px;
+    margin: 0px 0px;
+}
+
+.kad3{
+    background-color: white;
+    float: left;
+    height: 250px;
+    width: 2px;
+}
+
+.kbd3{
+    background-color: white;
+    float: right;
+    height: 250px;
+    width: 2px;
+    margin:0px  0px;
+}
+
+.ktd1l{
+    float:left;
+    background-color: white;
+    width: 150px;
+    height: 2px;
+    margin: 38px 0px 0px 0px;
+
+}
+.ktd2l{
+    float:left;
+    background-color: white;
+    width: 150px;
+    height: 2px;
+    margin: 38px 0px 0px 0px;
+
+}
+
+.ktd2{
+    float:left;
+    background-color: white;
+    width: 153px;
+    height: 2px;
+    margin: 38px 0px 0px 0px;
+
+}
+
+.ktd1r{
+    float: right;
+    background-color: white;
+    width: 150px;
+    height: 2px;
+    margin: 38px 0 0 0 ;
+
+}
+
+.ktd2r{
+    float: right;
+    background-color: white;
+    width: 150px;
+    height: 2px;
+    margin: 38px 0 0 0 ;
+
+}
+
+.ktdr{
+    float: right;
+    background-color: white;
+    width: 150px;
+    height: 2px;
+    margin: 38px 0 0px 0px ;
+
+}
+
+h2{
+    margin-top: 25px;
+    margin-bottom: 12px;
+}
+
+h2:hover{
+    color:orange;
+}
+
+h4{
+    margin-bottom: 15px;
+}
+
+h4:hover{
+    color:#ebb1bb;
+}
+
+input{
+background-color: #fcfcc4;
+width: 80px;
+height: 30px;
+border-radius: 10px;
+border: none;
+color:black;
+box-shadow: 1px 1px 6px 3px rgb(245, 241, 241);
+transition: 1s;
+}
+
+input:hover{
+    background-color: white;
+    width: 80px;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+    color:rgb(141, 141, 7);
+    text-shadow: 1px 0px 5px rgb(138, 201, 38);
+    }
